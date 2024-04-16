@@ -5,6 +5,8 @@ Hear2Learn is an innovative accessible auditory  platform designed to increase y
 
 This project was developed for Drexel University's 2024 DragonHacks and is hosted at [Hear2Learn.Tech](http://hear2learn.tech).
 
+![ezgif-3-2259c52f90](https://github.com/davidliaos/hear2learn/assets/122007821/cef37660-937b-4857-97ee-83d7d9e91082)
+
 ## Features
 
 - **Real-time Audio Transcription**: Captures every word of your lecture as it happens.
@@ -56,7 +58,8 @@ This project was developed for Drexel University's 2024 DragonHacks and is hoste
 - **Enterprise/Academic Level Dashboards**: Provides detailed feedback on student performance and lesson engagement.
 - **Advanced Audio Analysis**: Enhances the text conversion process for greater accuracy.
 - **Machine Learning and RAG**: Generates quiz questions of varying difficulties.
-- **Mobile Application**: Facilitates on-the-go access to platform resources.
+- **Mobile Appl!)
+ication**: Facilitates on-the-go access to platform resources.
 
 ## Contributing
 
